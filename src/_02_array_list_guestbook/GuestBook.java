@@ -14,7 +14,7 @@ public class GuestBook implements ActionListener {
 	ArrayList<String> names = new ArrayList<String>();
 	JFrame frame = new JFrame();
 	JPanel panel = new JPanel();
-	JButton button = new JButton();
+	JButton button = new JButton();   
 	JButton button1 = new JButton();
 	
 
